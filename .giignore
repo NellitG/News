@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Env
+.env
+
+# Django stuff
+*.log
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# Migrations (optional)
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# Node (if frontend is in same repo)
+node_modules/
+dist/
